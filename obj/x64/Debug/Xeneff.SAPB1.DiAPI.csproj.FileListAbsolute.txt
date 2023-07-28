@@ -1,0 +1,14 @@
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\bin\x64\Debug\Xeneff.SAPB1.DiAPI.exe.config
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.csproj.ResolveComReference.cache
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\bin\x64\Debug\Xeneff.SAPB1.DiAPI.exe
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\bin\x64\Debug\Xeneff.SAPB1.DiAPI.pdb
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.csprojResolveAssemblyReference.cache
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.exe
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.pdb
+C:\Users\cansu\Desktop\workspace\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\bin\x64\Debug\AppConfig\appSettings.config
+C:\Users\cansu\Desktop\workspace\X\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\bin\x64\Debug\Xeneff.SAPB1.DiAPI.exe.config
+C:\Users\cansu\Desktop\workspace\X\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Interop.SAPbobsCOM.dll
+C:\Users\cansu\Desktop\workspace\X\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.csproj.ResolveComReference.cache
+C:\Users\cansu\Desktop\workspace\X\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.exe
+C:\Users\cansu\Desktop\workspace\X\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\Xeneff.SAPB1.DiAPI\obj\x64\Debug\Xeneff.SAPB1.DiAPI.pdb
